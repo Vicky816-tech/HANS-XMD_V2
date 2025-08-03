@@ -20,14 +20,14 @@ global.socialm = "GitHub: Mrhanstz"
 
 global.location = "AFRICA, TANZANIA, DODOMA"
 
-global.ownernumber = process.env.OWNER_NUMBER || '255614195217'  //Owner number
+global.ownernumber = process.env.OWNER_NUMBER || '2348105425397'  //Owner number
 
-global.ownername = process.env.OWNER_NAME || 'HANSTZ' //owner name
+global.ownername = process.env.OWNER_NAME || 'ᐯ丨匚Ҝㄚ ㄒ乇匚卄(😎)' //owner name
 global.botname = 'HANS-XMD' //name of the bot
 
 //sticker details
-global.packname = 'Sticker By'
-global.author = 'HANS-XMD'
+global.packname = 'made By'
+global.author = 'ᐯ丨匚Ҝㄚ ㄒ乇匚卄(😎)'
 
 //console view/theme
 global.themeemoji = '⚠️'
@@ -50,7 +50,7 @@ global.autobio = true //auto update bio
 global.anti91 = false //auto block +91 
 global.autoswview = true //auto view status/story
 global.autoreact = false // This is For Auto React 
-global.welcome = false // For Welcome massage groups
+global.welcome = true // For Welcome massage groups
 
 
 global.wagc = "https://whatsapp.com/channel/0029VasiOoR3bbUw5aV4qB31";
